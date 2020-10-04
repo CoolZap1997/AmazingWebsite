@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Add Products</title>
+        <style>
+            input{
+                display: none;
+            }
+        </style>
+    </head>
+
+    <body>
+        <form>
+            <div>
+                <input type="number" min="0" max="20">
+                <button>Add to Cart</button>
+            </div>
+        </form>
+    </body>
+    <script>
+        var button = document.querySelector("button");
+        var input = document.querySelector("input[type=\"number\"]");
+        
+        button.onclick = () =>{
+            input.value = 1;
+            input.style.display = "block";
+            button.style.display = "none";
+            wait(7000);
+        }
+
+        input.onchange = () =>{
+            // if(input.value == 0){
+            //     input.style.display = "none";
+            //     button.style.display = "block";
+            // }
+        }
+    </script>
+</html>

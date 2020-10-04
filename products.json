@@ -1,0 +1,73 @@
+[
+    {
+        title: "JBL T460BT Extra Bass Wireless On-Ear Headphones with 11 Hours Playtime & Mic (Black)"
+        title_short: "JBL T460BT"
+        rating: "4 Stars"
+        price: "Rs 2,999"
+        img_src: "images/"
+    }
+
+    {
+        title: "Motorola Escape 210 Over-Ear Bluetooth Headphones with Alexa (Black)"
+        title_short: "Motorola Escape 210"
+        rating: "3.6 Stars"
+        price: "Rs 1,499"
+        img_src: "images/"
+    }
+
+    {
+        title: "OnePlus 8 (Onyx Black 12GB RAM+256GB Storage)"
+        title_short: "OnePlus 8"
+        rating: "4.3 Stars"
+        price: "Rs 49,999"
+        img_src: "images/"
+    }
+
+    {
+        title: "Apple iPhone 11 (64GB) - Black"
+        title_short: "iPhone 11 (64GB)"
+        rating: "4.5 Stars"
+        price: "Rs 66,900"
+        img_src: "images/"
+    }
+
+    {
+        title: "Logitech G F710 Wireless Gamepad (Silver and Black)"
+        title_short: "Logitech F710"
+        rating: "4.4 Stars"
+        price: "Rs 3,499"
+        img_src: "images/"
+    }
+
+    {
+        title: "Xbox Wireless Controller – Night Ops Camo Special Edition"
+        title_short: "Xbox Controller"
+        rating: "3.8 Stars"
+        price: "Rs 6,499"
+        img_src: "images/"
+    }
+
+    {
+        title: "Echo Dot (3rd Gen) – New and improved smart speaker with Alexa (Black)"
+        title_short: "Amazon Echo Dot"
+        rating: "4.3 Stars"
+        price: "Rs 3,499"
+        img_src: "images/"
+    }
+
+    {
+        title: "Kindle Paperwhite (10th gen) - with Built-in Light, Waterproof, 8 GB, WiFi"
+        title_short: "Kindle Paperwhite"
+        rating: "4.4 Stars"
+        price: "Rs 12,999"
+        img_src: "images/"
+    }
+
+    {
+        title: ""
+        title_short: ""
+        rating: ""
+        price: ""
+        img_src: ""
+    }
+]
